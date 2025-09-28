@@ -11,7 +11,11 @@ namespace GuestBookApp
 
         public GuestBook()
         {
-            
+            if(File.Exists(filename))
+           {
+                string jsonString = File.ReadAllText(filename);
+                posts = JsonSerializer.Deserialize<List<Post>>(jsonString)!;
+            }
         }
     }
 }
