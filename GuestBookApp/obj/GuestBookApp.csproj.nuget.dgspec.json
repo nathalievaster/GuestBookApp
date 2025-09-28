@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\GuestBookApp.csproj": {}
+    "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\GuestBookApp\\GuestBookApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\GuestBookApp.csproj": {
+    "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\GuestBookApp\\GuestBookApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\GuestBookApp.csproj",
+        "projectUniqueName": "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\GuestBookApp\\GuestBookApp.csproj",
         "projectName": "GuestBookApp",
-        "projectPath": "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\GuestBookApp.csproj",
+        "projectPath": "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\GuestBookApp\\GuestBookApp.csproj",
         "packagesPath": "C:\\Users\\nfred\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\obj\\",
+        "outputPath": "C:\\Users\\nfred\\laboration_3\\GuestBookApp\\GuestBookApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nfred\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
